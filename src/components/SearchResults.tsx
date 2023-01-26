@@ -19,3 +19,4 @@ export function SearchResults({results}: SearchResultsProps){
         </div>
     )
 }
+
